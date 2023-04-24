@@ -3,7 +3,7 @@
 
 ## Support for University of Sheffield researchers
 
-If you are a researcher at the University of Sheffield and need support with NVivo, we offer support through two avenues:
+If you are a researcher at the University of Sheffield and need support with NVivo, The [data analysis support service](https://students.sheffield.ac.uk/it-services/research/data-analysis-support) offers the following options:
 - 1-1 consultations on specific issues
 - Interactive group workshops
 
