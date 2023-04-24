@@ -22,7 +22,10 @@ NVivo is a software tool used for qualitative data analysis. It helps researcher
 
 This page is a collection of support resources which you may find useful. Contact me at: j.molloy@sheffield.ac.uk if you have any questions or comments about the material on this site.
 
-## Official Support Links
+## Official Support Links (QSR/Lumivero)
+
+[NVivo for Windows Help Documentation](https://help-nv.qsrinternational.com/20/win/Content/welcome.htm)
+[NVivo technical support request form](https://qsrsupport.force.com/customer/s/support-request?language=en_US&productType=Standard)
 
 
 ## External Learning Resources
