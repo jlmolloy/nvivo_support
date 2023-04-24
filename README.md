@@ -25,6 +25,7 @@ This page is a collection of support resources which you may find useful. Contac
 ## Official Support Links (QSR/Lumivero)
 
 [NVivo for Windows Help Documentation](https://help-nv.qsrinternational.com/20/win/Content/welcome.htm)
+
 [NVivo technical support request form](https://qsrsupport.force.com/customer/s/support-request?language=en_US&productType=Standard)
 
 
